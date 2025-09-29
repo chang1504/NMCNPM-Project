@@ -61,14 +61,14 @@ ATM Mini-Project là sản phẩm tổng hợp từ các lab trước, mục ti�
 Sprint Planning, Task breakdown, Burndown chart.
 
 ### Jira Backlog
-![Backlog](artifacts/Jirareport/Screenshot backlog.png)
+![Backlog](artifacts/Jirareport/Screenshot_backlog.png)
 
 ### Jira Board
-![Board](artifacts/Jirareport/Screenshot board.png)
-![Board 2](artifacts/Jirareport/Screenshot board2.png)
+![Board](artifacts/Jirareport/Screenshot_board.png)
+![Board 2](artifacts/Jirareport/Screenshot_board2.png)
 
 ### Jira Burndown
-![Burndown](artifacts/Jirareport/Screenshot burndown.png)
+![Burndown](artifacts/Jirareport/Screenshot_burndown.png)
 
 
 ## 7. Demo cuối kỳ
