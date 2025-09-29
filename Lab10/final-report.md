@@ -34,7 +34,7 @@ ATM Mini-Project là sản phẩm tổng hợp từ các lab trước, mục ti�
 ## 4. Giao diện & Module
 
 ### 4.1 Form Login
-![Login Form](artifacts/index.html)
+![Login Form](artifacts/formlogin.png)
 
 ### 4.2 Withdraw Module
 ![Withdraw Demo](artifacts/test_withdraw.png)
@@ -53,16 +53,23 @@ ATM Mini-Project là sản phẩm tổng hợp từ các lab trước, mục ti�
 - Case: Empty input  
 
 **Kết quả test:**
-![Test Report](artifacts/test_report.png)
+![Test Report](artifacts/selenium_test_login.png)
 
 ---
 
 ## 6. Quản lý dự án với Jira
 Sprint Planning, Task breakdown, Burndown chart.
 
-![Jira Board](artifacts/jira_report.png)
+### Jira Backlog
+![Backlog](artifacts/Jirareport/Screenshot backlog.png)
 
----
+### Jira Board
+![Board](artifacts/Jirareport/Screenshot board.png)
+![Board 2](artifacts/Jirareport/Screenshot board2.png)
+
+### Jira Burndown
+![Burndown](artifacts/Jirareport/Screenshot burndown.png)
+
 
 ## 7. Demo cuối kỳ
 - Chạy form login (Lab04).  
